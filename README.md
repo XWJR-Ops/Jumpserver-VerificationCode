@@ -6,6 +6,6 @@
 1. 3个脚本放置与jumpserver根目录
 2. 修改 **/etc/passwd** 中的**init.sh**修改为**NewInit.sh**
 ### 效果图
-![image][https://raw.githubusercontent.com/XWJR-Ops/Jumpserver-VerificationCode/master/image/1.jpg]
-![image][https://raw.githubusercontent.com/XWJR-Ops/Jumpserver-VerificationCode/master/image/2.jpg]
-![image][https://raw.githubusercontent.com/XWJR-Ops/Jumpserver-VerificationCode/master/image/3.jpg]
+![image](https://raw.githubusercontent.com/XWJR-Ops/Jumpserver-VerificationCode/master/image/1.jpg)
+![image](https://raw.githubusercontent.com/XWJR-Ops/Jumpserver-VerificationCode/master/image/2.jpg)
+![image](https://raw.githubusercontent.com/XWJR-Ops/Jumpserver-VerificationCode/master/image/3.jpg)
